@@ -1,0 +1,15 @@
+# no .aux files
+
+*.aux
+
+
+
+# no .log files
+
+*.log
+
+
+
+# no .pdf files
+
+*.pdf
